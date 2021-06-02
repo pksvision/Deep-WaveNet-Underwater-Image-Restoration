@@ -1,0 +1,29 @@
+1- Fusion based (CVPR 2012) 
+  (Java)  https://github.com/IsaacChanghau/ImageEnhanceViaFusion
+
+2- Retinex based (ICIP 2014)
+  (matlab) https://github.com/IsaacChanghau/OptimizedImageEnhance/blob/master/standalone_repos/Image-Enhance-via-Retinex-and-DT-CWT-master.zip
+
+3- WaterGAN (IEEE RA-L 2017) 
+   https://github.com/kskin/WaterGAN/
+
+4- UCR (BMVC 2017)  
+   (MATLAB) https://github.com/danaberman/underwater-hl 
+
+5- Underwater GAN (ICRA 2018)
+   https://github.com/cameronfabbri/Underwater-Color-Correction
+
+6- WaterNet (IEEE TIP 2019)
+   https://github.com/Li-Chongyi/Water-Net_Code
+
+7- Funie GAN (IEEE RA-L 2020)
+   https://github.com/xahidbuffon/funie-gan
+
+8- Haze Lines (T-PAMI 2020)
+   https://github.com/danaberman/underwater-hl   
+
+9- Deep-SESR (RSS 2020)
+    https://github.com/xahidbuffon/Deep_SESR
+
+10- HybridDetectionGAN (IEEE T-CSVT 2020)
+    https://github.com/LongChenCV/HybridDetectionGAN
