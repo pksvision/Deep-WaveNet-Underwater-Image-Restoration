@@ -183,15 +183,13 @@ python test.py
 - The usage of this software is under [**MIT License**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration/blob/main/LICENSE). 
 - This work is under review in IEEE for its potential publication. If you use this work or codes for academic purposes, please cite the following:
 ```
-@article{DBLP:journals/corr/abs-,
-  author    = {Prasen Kumar Sharma and
-               Ira Bisht and
-               Arijit Sur},
-  title     = {Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration},
-  journal   = {CoRR},
-  volume    = {abs/},
-  year      = {2021},
-  archivePrefix = {arXiv},
+@misc{sharma2021wavelengthbased,
+      title={Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration}, 
+      author={Prasen Kumar Sharma and Ira Bisht and Arijit Sur},
+      year={2021},
+      eprint={2106.07910},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
 }
 
  @article{islam2019fast,
