@@ -2,6 +2,8 @@
 #### **Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration**
 ###### [**Prasen Kumar Sharma**](https://www.iitg.ac.in/stud/kumar176101005/), [**Ira Bisht**](), and [**Arijit Sur**](https://www.iitg.ac.in/arijit/).
 
+###### [**Web-app**](https://deep-wavenet.herokuapp.com/) has been released (basic version). Best viewed in Firefox latest version. Note that [Heroku](https://www.heroku.com/) allows CPU-based computations only with limited memory. Hence, the app processes input image with a lower-resolution of 256x256. Use the above codes only to reproduce the original results.   
+
 **Google Colab demo:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration/blob/main/DeepWaveNet_demo.ipynb)
 
 ![Block](imgs/proposed.png)
@@ -254,5 +256,5 @@ python test.py
 - We acknowledge the support of publicly available datasets [**EUVP**](http://irvlab.cs.umn.edu/resources/euvp-dataset), [**UIEB**](https://li-chongyi.github.io/proj_benchmark.html), and [**UFO-120**](http://irvlab.cs.umn.edu/resources/ufo-120-dataset).  
 
 ### Future Releases
-- We are in the process of releasing web-app soon.
+- We are in the process of releasing web-app soon. [Done]
 - More flexible training modules using [**visdom**](https://ai.facebook.com/tools/visdom/) to be added soon.
