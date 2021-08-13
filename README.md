@@ -183,7 +183,7 @@ python test.py
 
 ### License and Citation
 - The usage of this software is under [**MIT License**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration/blob/main/LICENSE). 
-- This work is under review in IEEE for its potential publication. If you use this work or codes for academic purposes, please cite the following:
+- This work is under review for its potential publication. If you use this work or codes (for academic purposes only), please cite the following:
 ```
 @misc{sharma2021wavelengthbased,
       title={Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration}, 
