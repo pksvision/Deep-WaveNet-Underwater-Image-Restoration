@@ -83,6 +83,7 @@ cd uie_uieb
 - The UIEB test set used in our paper is available at [**Google drive**](https://drive.google.com/drive/folders/1wlitOSdb9Q5vB596YAy9w6u10iqCudgl?usp=sharing). 
 - Set the above arguments for this too if utilized.
 - Note, the `challenging-60` set may not have ground truth clean images. So for that, you can leave the argument `--testing_dir_gt` blank.
+- Ours results on `challenging-60` set are available at [**Google drive**](https://drive.google.com/drive/folders/1rZImxd4JHc-Idju0--LjBj135Yu_djDl?usp=sharing).
 
 ##### To test the Deep WaveNet on [**UFO-120**](http://irvlab.cs.umn.edu/resources/ufo-120-dataset) dataset
 ```bash
