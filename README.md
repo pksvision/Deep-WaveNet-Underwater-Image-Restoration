@@ -183,7 +183,7 @@ python test.py
 - To generate 2D pose of the human divers in an enhanced underwater image, follow [**OpenPose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
 
 ### License and Citation
-- The usage of this software is under [**MIT License**](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration/blob/main/LICENSE). 
+- The usage of this software is only for academic purposes. One can not use it for commercial products in any form. 
 - This work is under review for its potential publication. If you use this work or codes (for academic purposes only), please cite the following:
 ```
 @misc{sharma2021wavelengthbased,
