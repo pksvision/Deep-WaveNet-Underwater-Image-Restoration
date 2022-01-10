@@ -185,7 +185,7 @@ python test.py
 
 ### License and Citation
 - The usage of this software is only for academic purposes. One can not use it for commercial products in any form. 
-- This work is under review for its potential publication. If you use this work or codes (for academic purposes only), please cite the following:
+- If you use this work or codes (for academic purposes only), please cite the following:
 ```
 @misc{sharma2021wavelengthbased,
       title={Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration}, 
